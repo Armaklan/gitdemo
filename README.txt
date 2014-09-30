@@ -7,6 +7,5 @@ How to use this repository
 --------------------------------------------
 
 - Clone this repository
-- Launch npm install
 - Get composer.phar and launch composer install
-- Launch bower install
+- Install bower in your system and launch bower install
